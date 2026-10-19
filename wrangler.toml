@@ -1,8 +1,5 @@
-name = "feature-bruma-editorial-atmosfera-menu-demos"
+name = "atmosfera-menu-demos"
 compatibility_date = "2026-10-19"
 
 [assets]
 directory = "./dist"
-
-[previews]
-enabled = true
